@@ -1,0 +1,7 @@
+namespace redis
+{
+    class client
+    {
+
+    };
+}
